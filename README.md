@@ -1,3 +1,17 @@
+## Overview
+
+The MCM Go SDK provides Go developers with a complete toolkit for interacting with the
+Multi-Chain Multisig (MCM) Solana program. It includes both:
+
+- A **Go SDK** for programmatic access
+- A **CLI tool (`mcmctl`)** for operational management
+
+It simplifies workflows such as:
+- Creating and managing multisigs
+- Configuring signers and ownership
+- Building and executing proposals
+- Managing ECDSA-based signature collection
+
 # MCM Go SDK
 
 Go SDK for the Multi-Chain Multisig (MCM) Solana program.
